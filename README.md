@@ -1,6 +1,8 @@
 # MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs
 
-[**ArXiv Link**](https://arxiv.org/pdf/2605.07305)
+### 🎉 Excited to share that our paper, ["MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs"](https://arxiv.org/abs/2605.07305), has been accepted to **COLM 2026**!
+
+---
 
 **Authors**: Hsin-Ling Hsu, Zizheng Wang, Donghua Zhang, Nai-Chia Chen, Jerry Wang, Jun-En Ding, Chia-Hsuan Hsu, Guoan Wang, Feng Liu, Fang-Ming Hung, Chenwei Wu, Liyue Shen.
 
