@@ -4,7 +4,7 @@
 
 ---
 
-**Authors**: Hsin-Ling Hsu, Zizheng Wang, Donghua Zhang, Nai-Chia Chen, Jerry Wang, Jun-En Ding, Chia-Hsuan Hsu, Guoan Wang, Feng Liu, Fang-Ming Hung, Chenwei Wu, Liyue Shen.
+**Authors**: [Hsin-Ling Hsu](https://justin-code.com/) (applying for CS PhD programs Fall 2027), Zizheng Wang, Donghua Zhang, Nai-Chia Chen, Jerry Wang, Jun-En Ding, Chia-Hsuan Hsu, Guoan Wang, Feng Liu, Fang-Ming Hung, Chenwei Wu, Liyue Shen.
 
 ## 🚧 Code and data will be released soon. Stay tuned!
 
