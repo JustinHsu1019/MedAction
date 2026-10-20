@@ -1,6 +1,6 @@
 # MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs
 
-### 🎉 Excited to share that our paper, ["MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs"](https://arxiv.org/abs/2605.07305), has been accepted to **COLM 2026**!
+### 🎉 Excited to share that our paper, ["MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs"](https://openreview.net/forum?id=2ZtsUgwVbx), has been accepted to **COLM 2026**!
 
 ---
 
