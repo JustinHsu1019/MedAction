@@ -1,0 +1,30 @@
+# Core deep-learning stack
+torch>=2.1
+transformers>=4.40
+
+# Training (LoRA SFT)
+trl
+unsloth                    # fast LoRA fine-tuning
+datasets
+
+# Inference (vLLM serving)
+vllm>=0.7                  # used by base/eval/data-gen scripts
+
+# Data loading
+pandas
+openpyxl                   # required by pandas to read/write .xlsx
+numpy
+scipy
+
+# Knowledge-graph filter (our_metrics)
+networkx
+faiss-cpu                  # or faiss-gpu if you have a CUDA build
+
+# Async HTTP for GPT-4o oracle calls
+aiohttp
+nest_asyncio
+requests
+
+# Plots / progress
+matplotlib
+tqdm
