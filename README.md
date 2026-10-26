@@ -17,10 +17,11 @@ Most existing LLM diagnoses are evaluated on static, single-turn settings where 
 If you find this work useful, please cite:
 
 ```bibtex
-@article{hsu2026medaction,
-  title={MedAction: Towards Active Multi-turn Clinical Diagnostic LLMs},
-  author={Hsu, Hsin-Ling and Wang, Zizheng and Zhang, Donghua and Chen, Nai-Chia and Wang, Jerry and Ding, Jun-En and Hsu, Chia-Hsuan and Wang, Guoan and Liu, Feng and Hung, Fang-Ming and others},
-  journal={arXiv preprint arXiv:2605.07305},
-  year={2026}
+@inproceedings{hsu2026medaction,
+  title     = {{MedAction}: Towards Active Multi-turn Clinical Diagnostic {LLM}s},
+  author    = {Hsu, Hsin-Ling and Wang, Zizheng and Zhang, Donghua and Chen, Nai-Chia and Wang, Jerry and Ding, Jun-En and Hsu, Chia-Hsuan and Wang, Guoan and Liu, Feng and Hung, Fang Ming and Wu, Chenwei and Shen, Liyue},
+  booktitle = {Conference on Language Modeling (COLM)},
+  year      = {2026},
+  url       = {https://openreview.net/forum?id=2ZtsUgwVbx}
 }
 ```
